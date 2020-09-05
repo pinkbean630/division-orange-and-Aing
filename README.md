@@ -5,4 +5,4 @@
 * 그냥 cnn 예제에요
 
 ## 실행 방법
-* 압축 풀고 fruit_test를 아나콘다 jupyter notebook으로 실행하시면 
+* 압축 풀고 fruit_test를 아나콘다 jupyter notebook으로 실행하시면 됩니다
